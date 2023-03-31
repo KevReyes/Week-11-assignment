@@ -1,6 +1,6 @@
 window.onload = rotate;
 var thePic = 0;
-var arrMyPix = new Array("images/bird1.jpg", "images/bird2.jpg", "images/bird3.jpg", "images/bird4.jpg");
+var arrMyPix = new Array("bird1.jpg", "bird2.jpg", "bird3.jpg", "bird4.jpg");
 
 function rotate(){
     thePic++;
