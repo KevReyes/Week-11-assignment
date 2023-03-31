@@ -7,7 +7,7 @@ function initImages() {
 }  
 
 function newWindow() {
-    var imgName ="W11 bird1/" + ".jpg"; 
-    var imgWindow = window.open(imgName, "width=320,height=240,scrollbars=no") 
+    var imgName = "images/" + this.id + ".jpg"; 
+    var imgWindow = window.open(imgName, "imgWin", "width=320,height=240,scrollbars=no") 
 
 }
