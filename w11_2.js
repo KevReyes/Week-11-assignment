@@ -8,6 +8,6 @@ function initImages() {
 
 function newWindow() {
     var imgName ="W11 assignment/" + this.id + ".jpg"; 
-    var imgWindow = window.open(imgName, "imgWin", "width=320,height=240,scrollbars=no") 
+    var imgWindow = window.open(imgName, "width=320,height=240,scrollbars=no") 
 
 }
